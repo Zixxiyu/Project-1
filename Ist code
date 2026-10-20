@@ -1,0 +1,7 @@
+Terminal (bash)
+git init
+git add
+git commit -m "Initial Commit: project structure"
+git branch -M main
+git remote add oringin https://github.com/Zixxiyu-project-1.git
+git push -u origin main
